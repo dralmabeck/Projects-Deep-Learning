@@ -13,3 +13,5 @@
  3. TV Script Generator with Recurrent Long-Short-Term-Memory Neural Networks
 
  4. Face Generator with Generative Adversarial Networks
+
+ 5. Amazon Web Services SageMaker Deployment
